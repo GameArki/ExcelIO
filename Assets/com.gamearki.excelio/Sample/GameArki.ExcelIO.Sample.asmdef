@@ -1,0 +1,22 @@
+{
+    "name": "GameArki.ExcelIO.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d88c702001219e540b36f3a33771883e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "ClosedXML.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
